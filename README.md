@@ -12,5 +12,6 @@
 ## **Referencia**
 
 * [Microsoft](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-devops)
+* [BBVA New Technologies](https://www.bbvanexttechnologies.com/blogs/devops-mas-que-una-herramienta-una-cultura/)
 
 ## **Licencia**
