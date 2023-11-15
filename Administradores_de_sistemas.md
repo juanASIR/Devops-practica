@@ -1,3 +1,5 @@
+##*Administradores de sistemas*
+
 Un administrador de sistemas en un entorno DevOps desempeña un papel fundamental en la implementación, gestión y mantenimiento de la infraestructura:
 
 1. **Automatización**: Implementar y mantener herramientas de automatización para la configuración, aprovisionamiento, implementación y monitoreo de sistemas. Esto implica el uso de herramientas como Ansible, Puppet, Chef, entre otras.
