@@ -16,3 +16,4 @@
 * [Chat GPT](https://chat.openai.com/)
 
 ## **Licencia**
+![derechos](https://josefacchin.com/wp-content/uploads/2015/02/Reconocimiento-Compartir-Igual-BY-SA-CC-by-sa.png.webp)
