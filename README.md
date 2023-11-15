@@ -16,4 +16,4 @@
 * [Chat GPT](https://chat.openai.com/)
 
 ## **Licencia**
-![derechos](https://i.pinimg.com/564x/1b/9f/6b/1b9f6b84a507307e9b6ceee8650cb1f4.jpg)
+![derechos](https://www.escritores.org/imag/copyright_copyleft_creative_commons.jpg)
