@@ -1,4 +1,4 @@
-##*Administradores de sistemas*
+## *Administradores de sistemas*
 
 Un administrador de sistemas en un entorno DevOps desempeña un papel fundamental en la implementación, gestión y mantenimiento de la infraestructura:
 
