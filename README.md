@@ -15,5 +15,3 @@
 * [BBVA New Technologies](https://www.bbvanexttechnologies.com/blogs/devops-mas-que-una-herramienta-una-cultura/)
 * [Chat GPT](https://chat.openai.com/)
 
-## **Licencia**
-![derechos](https://www.escritores.org/imag/copyright_copyleft_creative_commons.jpg)
