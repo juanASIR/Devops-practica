@@ -16,4 +16,4 @@
 * [Chat GPT](https://chat.openai.com/)
 
 ## **Licencia**
-![derechos](https://png.pngtree.com/png-vector/20190228/ourlarge/pngtree-copyright-icon-design-template-vector-isolated-png-image_711440.jpg)
+![derechos](https://www.escritores.org/imag/copyright_copyleft_creative_commons.jpg)
